@@ -1,1 +1,1 @@
-# Project_1
+# Refer to the master branch for news app. 
